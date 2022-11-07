@@ -1,5 +1,8 @@
 ## Changelog
 
+### Version 1.14
+ - Updates to remove errors caused by VE removing items
+
 ### Version 1.13 - Incorrectly called 1.1.0
  - Updated to state that it's 1.4 compatible
 

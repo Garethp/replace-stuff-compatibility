@@ -12,4 +12,12 @@
 - Update to be compatibile with Rimworld 1.4. Adding new 1.4 buildings will come later, once all my mods are compatibile.
         </content>
     </HugsLib.UpdateFeatureDef>
+	
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>Reaplce_Stuff_Mod_Compatibility_1_14_0</defName>
+		<assemblyVersion>1.14.0</assemblyVersion>
+		<content>
+- This update fixes errors caused by VE removing various items from their modules without notice. A future update will have to come to update for any new items added
+		</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>

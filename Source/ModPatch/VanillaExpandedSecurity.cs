@@ -9,7 +9,6 @@
 			var sandbags = GetDatabaseThing("Sandbags");
 			var barbedWire = GetDatabaseThing("VFES_BarbedWire");
 			var barricade = GetDatabaseThing("Barricade");
-			var barrier = GetDatabaseThing("VFES_Barrier");
 			var deployableBarrier = GetDatabaseThing("VFES_DeployableBarrier");
 
 			var turret = GetDatabaseThing("Turret_MiniTurret");
@@ -27,18 +26,17 @@
 			var autocannon = GetDatabaseThing("Turret_Autocannon");
 			var uraniumSlugTurret = GetDatabaseThing("Turret_Sniper");
 			var doubleAutocannon = GetDatabaseThing("VFES_Turret_AutocannonDouble");
-			var rocketTurret = GetDatabaseThing("VFES_Turret_TriRocket");
 			var chargeRailgun = GetDatabaseThing("VFES_Turret_ChargeRailgunTurret");
 			var empTurret = GetDatabaseThing("VFES_Turret_EMPTurret");
 
 			var smallShield = GetDatabaseThing("VFES_ShieldGenerator_Small");
 			var largeShield = GetDatabaseThing("VFES_ShieldGenerator_Large");
 
-			AddInterchangeableList(sandbags, barbedWire, barricade, barrier, deployableBarrier);
+			AddInterchangeableList(sandbags, barbedWire, barricade, deployableBarrier);
 			AddInterchangeableList(
 				turret, deployableTurret, militaryTurret, searchLight, flameTurret, sentryGun, chargeTurret);
 			AddInterchangeableList(spikeTrap, bearTrap);
-			AddInterchangeableList(ballista, autocannon, uraniumSlugTurret, doubleAutocannon, rocketTurret, chargeRailgun, empTurret);
+			AddInterchangeableList(ballista, autocannon, uraniumSlugTurret, doubleAutocannon, chargeRailgun, empTurret);
 			AddInterchangeableList(spikeTrap, bearTrap);
 			AddInterchangeableList(smallShield, largeShield);
 		}

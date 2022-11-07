@@ -30,6 +30,7 @@ namespace Replace_Stuff_Compatibility
 					new VanillaExpandedFurniture(),
 					new VanillaExpandedSecurity(), 
 					new VanillaExpandedPower(),
+					new VanillaExpandedHelixienGas(),
 					new VanillaFurnitureProduction(),
 					new VanillaExpandedSpacer(),
 					new VanillaExpandedBooks(),
