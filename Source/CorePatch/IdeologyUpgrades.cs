@@ -6,7 +6,6 @@
 
 		protected override void AddItems()
 		{
-			MultiModPatch.Lights.Add(GetDatabaseThing("Darklamp"));
 			MultiModPatch.Lights.Add(GetDatabaseThing("Darktorch"));
 			MultiModPatch.Lights.Add(GetDatabaseThing("DarktorchFungus"));
 		}

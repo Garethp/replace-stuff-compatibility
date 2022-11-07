@@ -12,7 +12,7 @@
   </PropertyGroup>
   <ItemGroup>
 		<AboutFiles Include="About\About.xml" />
-		<ReleaseFiles Include="About\**;Defs\**;Patches\**;Languages\**;Sounds\**;Textures\**;LoadFolders.xml" Exclude="About\About-Debug.xml;About\About-Release.xml;About\About.xml" />
+		<ReleaseFiles Include="News\**;About\**;Defs\**;Patches\**;Languages\**;Sounds\**;Textures\**;LoadFolders.xml" Exclude="About\About-Debug.xml;About\About-Release.xml;About\About.xml" />
 		<AboutFiles Include="About\About-Debug.xml;About\About-Release.xml" />
   </ItemGroup>
   <ItemGroup>

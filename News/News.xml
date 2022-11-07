@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+        <modNameReadable>Reaplce Stuff Mod Compatibility</modNameReadable>
+        <modIdentifier>Garethp.ReplaceStuffCompatibility</modIdentifier>
+    </HugsLib.UpdateFeatureDef>
+    
+    <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+        <defName>Reaplce_Stuff_Mod_Compatibility_1_1_0</defName>
+        <assemblyVersion>1.1.0</assemblyVersion>
+        <content>
+- Update to be compatibile with Rimworld 1.4. Adding new 1.4 buildings will come later, once all my mods are compatibile.
+        </content>
+    </HugsLib.UpdateFeatureDef>
+</Defs>
