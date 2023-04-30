@@ -1,0 +1,36 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfecore">
+		<defName>VanillaExpandedFurniture</defName>
+		<ReplaceLists>
+			<li>
+				<Category>Dressers</Category>
+				<Items>
+					<li>Table_RoyalDresser</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>EndTables</Category>
+				<Items>
+					<li>Table_LightEndTable</li>
+					<li>Table_RoyalEndTable</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>Wardrobes</Category>
+				<Items>
+					<li>Table_Wardrobe</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>Lights</Category>
+				<Items>
+					<li>Light_Streetlamp</li>
+					<li>Table_LightEndTable</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

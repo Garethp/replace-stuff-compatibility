@@ -31,8 +31,8 @@ namespace Replace_Stuff_Compatibility.ModPatch
 					
 					oldRack.InnerContainer.TryTransferAllToContainer(newRack.InnerContainer);
 					
-					if (oldRack.GetAssignedPawn() != null)
-						newRack.TryGetComp<CompAssignableToPawn_ArmorRacks>().TryAssignPawn(oldRack.GetAssignedPawn());
+					if (oldRack.GetAssignedPawn() != null) 
+						newRack.TryAssignPawn(oldRack.GetAssignedPawn());
 				});
 		}
 	}

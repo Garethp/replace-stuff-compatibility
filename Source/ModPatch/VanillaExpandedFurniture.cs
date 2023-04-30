@@ -22,16 +22,6 @@ namespace Replace_Stuff_Compatibility.ModPatch
 			var oldRadio = GetDatabaseThing("Radio_Industrial");
 			var radio = GetDatabaseThing("Radio_Spacer");
 			
-			MultiModPatch.Lights.Add(GetDatabaseThing("Light_Streetlamp"));
-			MultiModPatch.Lights.Add(GetDatabaseThing("Table_LightEndTable"));
-			
-			MultiModPatch.EndTables.Add(GetDatabaseThing("Table_LightEndTable"));
-			MultiModPatch.EndTables.Add(GetDatabaseThing("Table_RoyalEndTable"));
-			
-			MultiModPatch.Dressers.Add(GetDatabaseThing("Table_RoyalDresser"));
-			
-			MultiModPatch.Wardrobes.Add(GetDatabaseThing("Table_Wardrobe"));
-
 			AddInterchangeableList(campfire, stoneCampfire);
 			AddInterchangeableList(oldRadio, radio);
 		}

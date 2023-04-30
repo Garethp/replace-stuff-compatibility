@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using HarmonyLib;
-using Replace_Stuff_Compatibility.CorePatch;
 using Replace_Stuff_Compatibility.ModPatch;
 using Verse;
 
@@ -23,27 +22,17 @@ namespace Replace_Stuff_Compatibility
 			{
 				var patches = new List<AbstractPatch>()
 				{
-					new CoreUpgrades(),
-					new RoyaltyUpgrades(),
-					new IdeologyUpgrades(),
 					new ModPatch.SaveOurShip2(),
 					new VanillaExpandedFurniture(),
 					new VanillaExpandedSecurity(), 
 					new VanillaExpandedPower(),
 					new VanillaExpandedHelixienGas(),
 					new VanillaFurnitureProduction(),
-					new VanillaExpandedSpacer(),
 					new VanillaExpandedBooks(),
-					new RimEffect(),
 					new ArmourRacks(),
 					new LWMDeepStorage(),
-					new HigherPower(),
 					new Jewelry(),
-					new BadHygiene(),
 					new BadHygieneLite(),
-					new UtilityColumns(),
-					new SubsurfaceConduits(),
-					new UndergroundPowerConduit(),
 					new RimBeesPatch()
 				};
 

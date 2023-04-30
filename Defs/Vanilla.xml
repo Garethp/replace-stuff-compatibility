@@ -1,0 +1,81 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems>
+		<defName>Vanilla</defName>
+		<ReplaceLists><li>
+				<Category>Dressers</Category>
+				<Items>
+					<li>Dresser</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>EndTables</Category>
+				<Items>
+					<li>EndTable</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>Lights</Category>
+				<Items>
+					<li>TorchLamp</li>
+					<li>StandingLamp</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>ResearchBenches</Category>
+				<Items>
+					<li>SimpleResearchBench</li>
+					<li>HiTechResearchBench</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>Sunlamps</Category>
+				<Items>
+					<li>SunLamp</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>Columns</Category>
+				<Items>
+					<li>Column</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>PoweredGenerators</Category>
+				<Items>
+					<li>WoodFiredGenerator</li>
+					<li>ChemfuelPoweredGenerator</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Category>TVs</Category>
+				<Items>
+					<li>TubeTelevision</li>
+					<li>FlatscreenTelevision</li>
+					<li>MegascreenTelevision</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Category>SolarGenerators</Category>
+				<Items>
+					<li>SolarGenerator</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Category>PowerConduits</Category>
+				<Items>
+					<li>PowerConduit</li>
+					<li>WaterproofConduit</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

@@ -1,0 +1,20 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="leion247612.higherhpower">
+		<defName>HigherPower</defName>
+		<ReplaceLists>
+			<li>
+				<Category>PoweredGenerators</Category>
+				<Items>
+					<li>ChemfuelPoweredGenerator_II</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Category>SolarGenerators</Category>
+				<Items>
+					<li>SolarGenerator_II</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

@@ -1,0 +1,14 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems>
+		<defName>Royalty</defName>
+		<ReplaceLists>
+			<li>
+				<Category>Lights</Category>
+				<Items>
+					<li>Brazier</li>
+					<li>DarklightBrazier</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

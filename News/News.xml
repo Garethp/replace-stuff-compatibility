@@ -20,4 +20,12 @@
 - This update fixes errors caused by VE removing various items from their modules without notice. A future update will have to come to update for any new items added
 		</content>
 	</HugsLib.UpdateFeatureDef>
+	
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>Reaplce_Stuff_Mod_Compatibility_2_0_0</defName>
+		<assemblyVersion>2.0.0</assemblyVersion>
+		<content>
+			- This update moves all Replace Stuff Compatibility into XML Patches, allowing mod authors or community members to make their own items Replace Stuff compatible
+		</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>

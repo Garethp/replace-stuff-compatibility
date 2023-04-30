@@ -1,0 +1,29 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.helixiengas">
+		<defName>VanillaExpandedHelixien</defName>
+		<ReplaceLists>
+			<li>
+				<Category>Lights</Category>
+				<Items>
+					<li>VHGE_GasLamp</li>
+					<li>VHGE_GasFloodlight</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>Sunlamps</Category>
+				<Items>
+					<li>VHGE_GasSunLamp</li>
+				</Items>
+			</li>
+
+			<li>
+				<Category>PoweredGenerators</Category>
+				<Items>
+					<li>VHGE_HelixienGenerator</li>
+					<li>VHGE_IndustrialHelixienGenerator</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

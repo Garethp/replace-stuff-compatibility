@@ -1,0 +1,14 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems>
+		<defName>Ideology</defName>
+		<ReplaceLists>
+			<li>
+				<Category>Lights</Category>
+				<Items>
+					<li>Darktorch</li>
+					<li>DarktorchFungus</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>
