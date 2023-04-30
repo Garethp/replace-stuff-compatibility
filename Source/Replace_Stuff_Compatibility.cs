@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using HarmonyLib;
-using Replace_Stuff_Compatibility.ModPatch;
+﻿using HarmonyLib;
 using Verse;
 
 namespace Replace_Stuff_Compatibility
@@ -20,25 +18,10 @@ namespace Replace_Stuff_Compatibility
 		{
 			static ModStartup()
 			{
-				var patches = new List<AbstractPatch>()
-				{
-					new ModPatch.SaveOurShip2(),
-					new VanillaExpandedFurniture(),
-					new VanillaExpandedSecurity(), 
-					new VanillaExpandedPower(),
-					new VanillaExpandedHelixienGas(),
-					new VanillaFurnitureProduction(),
-					new VanillaExpandedBooks(),
-					new ArmourRacks(),
-					new LWMDeepStorage(),
-					new Jewelry(),
-					new BadHygieneLite(),
-					new RimBeesPatch()
-				};
-
-				patches.ForEach(patch => patch.Patch());
+				var factory = new RulesFactory();
 				
-				(new MultiModPatch()).Patch();
+				factory.AddGenericRules();
+				factory.AddRulesFromXML();
 			}
 		}
 	}

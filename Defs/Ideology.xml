@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="Ludeon.RimWorld.Ideology">
 		<defName>Ideology</defName>
 		<ReplaceLists>
 			<li>

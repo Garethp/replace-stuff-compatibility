@@ -17,4 +17,6 @@ public class ReplaceList
 	public string Category = "";
 	
 	public List<ThingDef> Items = new();
+
+	public List<string> comps = new();
 }

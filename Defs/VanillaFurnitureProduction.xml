@@ -1,0 +1,78 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfeproduction">
+		<defName>VanillaFurnitureProduction</defName>
+		<ReplaceLists>
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Smelters</Category>
+				<Items>
+					<li>VFE_FueledSmelter</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Items>
+					<li>TableStonecutter</li>
+					<li>VFE_TableStonecutterElectric</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Items>
+					<li>TableButcher</li>
+					<li>VFE_TableButcherElectric</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Items>
+					<li>DrugLab</li>
+					<li>VFE_TableDrugLabElectric</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Smithys</Category>
+				<Items>
+					<li>VFE_TableSmithyLarge</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>MachiningTables</Category>
+				<Items>
+					<li>VFE_TableMachiningLarge</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Stoves</Category>
+				<Items>
+					<li>VFE_TableStoveLarge</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>TailoringBenches</Category>
+				<Items>
+					<li>VFE_TableTailorLarge</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Fabricators</Category>
+				<Items>
+					<li>VFE_ComponentFabricationBench</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

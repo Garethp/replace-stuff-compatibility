@@ -1,0 +1,52 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfesecurity">
+		<defName>VanillaExpandedSecurity</defName>
+		<ReplaceLists>
+			<li>
+				<Items>
+					<li>Sandbags</li>
+					<li>VFES_BarbedWire</li>
+					<li>Barricade</li>
+					<li>VFES_DeployableBarrier</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Items>
+					<li>Turret_MiniTurret</li>
+					<li>VFES_Turret_FloorTurret</li>
+					<li>VFES_Turret_MilitaryTurret</li>
+					<li>VFES_Turret_Searchlight</li>
+					<li>VFES_Turret_Flame</li>
+					<li>VFES_Turret_SentryGun</li>
+					<li>VFES_Turret_ChargeTurret</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Items>
+					<li>TrapSpike</li>
+					<li>VFES_BearTrap</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Items>
+					<li>VFES_Turret_Ballista</li>
+					<li>Turret_Autocannon</li>
+					<li>Turret_Sniper</li>
+					<li>VFES_Turret_AutocannonDouble</li>
+					<li>VFES_Turret_ChargeRailgunTurret</li>
+					<li>VFES_Turret_EMPTurret</li>
+				</Items>
+			</li>
+			
+			<li>
+				<Items>
+					<li>VFES_ShieldGenerator_Small</li>
+					<li>VFES_ShieldGenerator_Large</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

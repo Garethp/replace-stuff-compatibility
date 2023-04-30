@@ -76,6 +76,65 @@
 					<li>WaterproofConduit</li>
 				</Items>
 			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>ArtTables</Category>
+				<Items>
+					<li>TableSculpting</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Smelters</Category>
+				<Items>
+					<li>ElectricSmelter</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Smithys</Category>
+				<Items>
+					<li>FueledSmithy</li>
+					<li>ElectricSmithy</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>MachiningTables</Category>
+				<Items>
+					<li>TableMachining</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Stoves</Category>
+				<Items>
+					<li>FueledStove</li>
+					<li>ElectricStove</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>TailoringBenches</Category>
+				<Items>
+					<li>HandTailoringBench</li>
+					<li>ElectricTailoringBench</li>
+				</Items>
+			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Fabricators</Category>
+				<Items>
+					<li>FabricationBench</li>
+				</Items>
+			</li>
 		</ReplaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

@@ -1,0 +1,14 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="kikohi.jewelry">
+		<defName>Jewelry</defName>
+		<ReplaceLists>
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>ArtTables</Category>
+				<Items>
+					<li>LaserTableSculpting</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>

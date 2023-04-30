@@ -24,6 +24,46 @@
 					<li>VHGE_IndustrialHelixienGenerator</li>
 				</Items>
 			</li>
+			
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Category>Smelters</Category>
+				<Items>
+					<li>VHGE_GasPoweredSmelter</li>
+				</Items>
+			</li>
 		</ReplaceLists>
+		
+		<li>
+			<IsWorkbench>true</IsWorkbench>
+			<Items>
+				<li>BiofuelRefinery</li>
+				<li>VHGE_GasPoweredRefinery</li>
+			</Items>
+		</li>
+		
+		<li>
+			<IsWorkbench>true</IsWorkbench>
+			<Items>
+				<li>ElectricCrematorium</li>
+				<li>VHGE_GasPoweredCrematorium</li>
+			</Items>
+		</li>
+		
+		<li>
+			<IsWorkbench>true</IsWorkbench>
+			<Category>Smithys</Category>
+			<Items>
+				<li>VHGE_GasPoweredSmithy</li>
+			</Items>
+		</li>
+		
+		<li>
+			<IsWorkbench>true</IsWorkbench>
+			<Category>Stoves</Category>
+			<Items>
+				<li>VHGE_GasPoweredStove</li>
+			</Items>
+		</li>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

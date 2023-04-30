@@ -1,0 +1,14 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vbookse">
+		<defName>VanillaExpandedBooks</defName>
+		<ReplaceLists>
+			<li>
+				<IsWorkbench>true</IsWorkbench>
+				<Items>
+					<li>VBE_WritersTable</li>
+					<li>VBE_TypewritersTable</li>
+				</Items>
+			</li>
+		</ReplaceLists>
+	</Replace_Stuff_Compatibility.InterchangableItems>
+</Defs>
