@@ -11,6 +11,8 @@ namespace Replace_Stuff_Compatibility
 {
 	public class RulesFactory
 	{
+		private Dictionary<string, IReplacementComp> compCache = new();
+		
 		public void AddGenericRules()
 		{
 			// Allow all "plant growable items" to replace each other, and when they do attempt to set the growing plant type
@@ -81,6 +83,25 @@ namespace Replace_Stuff_Compatibility
 				item => item.IsWall() || wallInterchangeable.Contains(item)
 			));
 
+			foreach (var itemList in uncategorized)
+			{
+				if (itemList.IsWorkbench && !itemList.comps.Contains("Replace_Stuff_Compatibility.Comps.TransferBills"))
+					itemList.comps.Add("Replace_Stuff_Compatibility.Comps.TransferBills");
+				
+				foreach (var compName in itemList.comps)
+				{
+					if (compCache.ContainsKey(compName)) continue;
+
+					var type = Type.GetType(compName);
+					if (type is null) continue;
+					
+					var comp = (IReplacementComp)Activator.CreateInstance(type);
+					if (comp is null) continue;
+					
+					compCache.Add(compName, comp);
+				}
+			}
+			
 			foreach (var category in categories)
 			{
 				AddInterchangeableItems(category.Value);
@@ -99,26 +120,19 @@ namespace Replace_Stuff_Compatibility
 
 		protected void AddInterchangeableItems(ReplaceList items)
 		{
-			List<IReplacementComp> comps = new();
-
-			if (items.IsWorkbench)
-			{
-				comps.Add(new TransferBills());
-			}
-
+			List<string> comps = new();
+			
 			if (items.comps.Any())
 			{
 				comps.AddRange(items.comps
-					.Select(compName => Type.GetType(compName))
-					.Where(type => type is not null)
-					.Select(type => (IReplacementComp)Activator.CreateInstance(type))
+					.Where(compName => compCache.ContainsKey(compName))
 				);
 			}
 
 			AddInterchangeableList(
 				items.Items,
-				preAction: (newThing, oldThing) => { comps.ForEach(comp => { comp.PreAction(newThing, oldThing); }); },
-				postAction: (newThing, oldThing) => { comps.ForEach(comp => comp.PostAction(newThing, oldThing)); }
+				preAction: (newThing, oldThing) => { comps.ForEach(comp => compCache[comp].PreAction(newThing, oldThing)); },
+				postAction: (newThing, oldThing) => { comps.ForEach(comp => compCache[comp].PostAction(newThing, oldThing)); }
 			);
 		}
 

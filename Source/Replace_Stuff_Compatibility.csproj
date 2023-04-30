@@ -4154,8 +4154,5 @@
       <Link>Data\Royalty\Patches\Things_Drugs.xml</Link>
     </Content>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ModPatch\" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
