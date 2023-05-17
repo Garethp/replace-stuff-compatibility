@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="rimeffect.core">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="rimeffect.core">
 		<defName>ReplaceStuffModCompat_RimEffect</defName>
 		<replaceLists>
 			<li>
@@ -66,5 +66,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

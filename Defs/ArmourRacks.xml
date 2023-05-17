@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="khamenman.armorracks">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="khamenman.armorracks">
 		<defName>ReplaceStuffModCompat_ArmourRacks</defName>
 		<replaceLists>
 			<li>
@@ -13,5 +13,5 @@
 				</comps>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

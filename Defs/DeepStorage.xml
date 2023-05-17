@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="lwm.deepstorage">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="lwm.deepstorage">
 		<defName>ReplaceStuffModCompat_DeepStorage</defName>
 		<replaceLists>
 			<li>
@@ -33,5 +33,5 @@
 				</comps>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

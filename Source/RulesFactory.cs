@@ -46,7 +46,7 @@ namespace Replace_Stuff_Compatibility
 			var uncategorized = new List<ReplaceList>();
 			var wallInterchangeable = new List<ThingDef>();
 
-			foreach (var def in DefDatabase<InterchangableItems>.AllDefs)
+			foreach (var def in DefDatabase<InterchangeableItems>.AllDefs)
 			{
 				foreach (var list in def.replaceLists)
 				{

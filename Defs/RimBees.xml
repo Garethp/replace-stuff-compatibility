@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="sarg.rimbees">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="sarg.rimbees">
 		<defName>ReplaceStuffModCompat_ArmourRacks</defName>
 		<replaceLists>
 			<li>
@@ -15,5 +15,5 @@
 				</comps>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

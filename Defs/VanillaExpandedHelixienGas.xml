@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.helixiengas">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="vanillaexpanded.helixiengas">
 		<defName>ReplaceStuffModCompat_VanillaExpandedHelixien</defName>
 		<replaceLists>
 			<li>
@@ -65,5 +65,5 @@
 				<li>VHGE_GasPoweredStove</li>
 			</items>
 		</li>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

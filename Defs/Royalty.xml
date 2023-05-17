@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="Ludeon.RimWorld.Royalty">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>ReplaceStuffModCompat_Royalty</defName>
 		<replaceLists>
 			<li>
@@ -10,5 +10,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

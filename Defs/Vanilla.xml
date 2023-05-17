@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems>
+	<Replace_Stuff_Compatibility.InterchangeableItems>
 		<defName>ReplaceStuffModCompat_Vanilla</defName>
 		<replaceLists>
 			<li>
@@ -137,5 +137,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

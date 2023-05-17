@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="kentington.saveourship2">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="kentington.saveourship2">
 		<defName>ReplaceStuffModCompat_SaveOurShip2</defName>
 		<replaceLists>
 			<li>
@@ -84,5 +84,5 @@
 				</comps>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

@@ -3,7 +3,7 @@ using Verse;
 
 namespace Replace_Stuff_Compatibility;
 
-public class InterchangableItems : Def
+public class InterchangeableItems : Def
 {
 	public List<ReplaceList> replaceLists = new();
 }

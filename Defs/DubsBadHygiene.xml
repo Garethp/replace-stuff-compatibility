@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="dubwise.dubsbadhygiene">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="dubwise.dubsbadhygiene">
 		<defName>ReplaceStuffModCompat_BadHiegene</defName>
 		<replaceLists>
 			<li>
@@ -42,5 +42,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

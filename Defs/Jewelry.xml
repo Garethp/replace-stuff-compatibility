@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="kikohi.jewelry">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="kikohi.jewelry">
 		<defName>ReplaceStuffModCompat_Jewelry</defName>
 		<replaceLists>
 			<li>
@@ -10,5 +10,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="nephlite.orbitaltradecolumn">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="nephlite.orbitaltradecolumn">
 		<defName>ReplaceStuffModCompat_UtilityColumns</defName>
 		<replaceLists>
 			<li>
@@ -30,5 +30,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

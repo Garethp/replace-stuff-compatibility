@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfespacer">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="vanillaexpanded.vfespacer">
 		<defName>ReplaceStuffModCompat_VanillaExpandedSpacer</defName>
 		<replaceLists>
 			<li>
@@ -31,5 +31,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

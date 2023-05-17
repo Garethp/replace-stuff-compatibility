@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="murmur.subsurfaceconduit">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="murmur.subsurfaceconduit">
 		<defName>ReplaceStuffModCompat_SubsurfaceConduits</defName>
 		<replaceLists>			
 			<li>
@@ -9,5 +9,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfepower">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="vanillaexpanded.vfepower">
 		<defName>ReplaceStuffModCompat_VanillaExpandedPower</defName>
 		<replaceLists>
 			<li>
@@ -17,5 +17,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>

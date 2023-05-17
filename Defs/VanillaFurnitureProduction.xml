@@ -1,5 +1,5 @@
 ﻿<Defs>
-	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfeproduction">
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="vanillaexpanded.vfeproduction">
 		<defName>ReplaceStuffModCompat_VanillaFurnitureProduction</defName>
 		<replaceLists>
 			<li>
@@ -74,5 +74,5 @@
 				</items>
 			</li>
 		</replaceLists>
-	</Replace_Stuff_Compatibility.InterchangableItems>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>
