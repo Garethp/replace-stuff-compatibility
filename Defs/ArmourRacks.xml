@@ -1,0 +1,17 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="khamenman.armorracks">
+		<defName>ReplaceStuffModCompat_ArmourRacks</defName>
+		<replaceLists>
+			<li>
+				<items>
+					<li>ArmorRacks_ArmorRack</li>
+					<li>ArmorRacks_MechanizedArmorRack</li>
+					<li>ArmorRacks_MendingArmorRack</li>
+				</items>
+				<comps>
+					<li>Replace_Stuff_Compatibility.Comps.TransferArmourRack</li>
+				</comps>
+			</li>
+		</replaceLists>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>

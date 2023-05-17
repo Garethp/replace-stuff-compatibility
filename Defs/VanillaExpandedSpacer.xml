@@ -1,0 +1,35 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="vanillaexpanded.vfespacer">
+		<defName>ReplaceStuffModCompat_VanillaExpandedSpacer</defName>
+		<replaceLists>
+			<li>
+				<category>Dressers</category>
+				<items>
+					<li>Table_IlluminatedDresser</li>
+				</items>
+			</li>
+
+			<li>
+				<category>EndTables</category>
+				<items>
+					<li>Table_IlluminatedEndTable</li>
+				</items>
+			</li>
+
+			<li>
+				<category>Lights</category>
+				<items>
+					<li>Light_SpacerLamp</li>
+					<li>Spacer_OutdoorLamp</li>
+				</items>
+			</li>
+			
+			<li>
+				<category>TVs</category>
+				<items>
+					<li>UltrascreenTV</li>
+				</items>
+			</li>
+		</replaceLists>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>

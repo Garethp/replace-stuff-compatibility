@@ -1,0 +1,141 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangeableItems>
+		<defName>ReplaceStuffModCompat_Vanilla</defName>
+		<replaceLists>
+			<li>
+				<category>Dressers</category>
+				<items>
+					<li>Dresser</li>
+				</items>
+			</li>
+
+			<li>
+				<category>EndTables</category>
+				<items>
+					<li>EndTable</li>
+				</items>
+			</li>
+
+			<li>
+				<category>Lights</category>
+				<items>
+					<li>TorchLamp</li>
+					<li>StandingLamp</li>
+				</items>
+			</li>
+
+			<li>
+				<category>ResearchBenches</category>
+				<items>
+					<li>SimpleResearchBench</li>
+					<li>HiTechResearchBench</li>
+				</items>
+			</li>
+
+			<li>
+				<category>Sunlamps</category>
+				<items>
+					<li>SunLamp</li>
+				</items>
+			</li>
+
+			<li>
+				<category>Columns</category>
+				<items>
+					<li>Column</li>
+				</items>
+			</li>
+
+			<li>
+				<category>PoweredGenerators</category>
+				<items>
+					<li>WoodFiredGenerator</li>
+					<li>ChemfuelPoweredGenerator</li>
+				</items>
+			</li>
+
+			<li>
+				<category>TVs</category>
+				<items>
+					<li>TubeTelevision</li>
+					<li>FlatscreenTelevision</li>
+					<li>MegascreenTelevision</li>
+				</items>
+			</li>
+
+			<li>
+				<category>SolarGenerators</category>
+				<items>
+					<li>SolarGenerator</li>
+				</items>
+			</li>
+
+			<li>
+				<category>PowerConduits</category>
+				<items>
+					<li>PowerConduit</li>
+					<li>WaterproofConduit</li>
+				</items>
+			</li>
+
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>ArtTables</category>
+				<items>
+					<li>TableSculpting</li>
+				</items>
+			</li>
+
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>Smelters</category>
+				<items>
+					<li>ElectricSmelter</li>
+				</items>
+			</li>
+
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>Smithys</category>
+				<items>
+					<li>FueledSmithy</li>
+					<li>ElectricSmithy</li>
+				</items>
+			</li>
+
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>MachiningTables</category>
+				<items>
+					<li>TableMachining</li>
+				</items>
+			</li>
+
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>Stoves</category>
+				<items>
+					<li>FueledStove</li>
+					<li>ElectricStove</li>
+				</items>
+			</li>
+
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>TailoringBenches</category>
+				<items>
+					<li>HandTailoringBench</li>
+					<li>ElectricTailoringBench</li>
+				</items>
+			</li>
+
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>Fabricators</category>
+				<items>
+					<li>FabricationBench</li>
+				</items>
+			</li>
+		</replaceLists>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>

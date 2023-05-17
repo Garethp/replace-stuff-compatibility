@@ -1,0 +1,37 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="lwm.deepstorage">
+		<defName>ReplaceStuffModCompat_DeepStorage</defName>
+		<replaceLists>
+			<li>
+				<items>
+					<li>Shelf</li>
+					<li>LWM_BigShelf</li>
+					<li>LWM_VeryBigShelf</li>
+				</items>
+				<comps>
+					<li>Replace_Stuff_Compatibility.Comps.CopyStorageSettingsComp</li>
+				</comps>
+			</li>
+
+			<li>
+				<items>
+					<li>LWM_Pallet</li>
+					<li>LWM_Pallet_Covered</li>
+				</items>
+				<comps>
+					<li>Replace_Stuff_Compatibility.Comps.CopyStorageSettingsComp</li>
+				</comps>
+			</li>
+
+			<li>
+				<items>
+					<li>LWM_WeaponsCabinet</li>
+					<li>LWM_WeaponsLocker</li>
+				</items>
+				<comps>
+					<li>Replace_Stuff_Compatibility.Comps.CopyStorageSettingsComp</li>
+				</comps>
+			</li>
+		</replaceLists>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>
