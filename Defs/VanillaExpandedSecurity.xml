@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfesecurity">
-		<defName>VanillaExpandedSecurity</defName>
+		<defName>ReplaceStuffModCompat_VanillaExpandedSecurity</defName>
 		<replaceLists>
 			<li>
 				<items>

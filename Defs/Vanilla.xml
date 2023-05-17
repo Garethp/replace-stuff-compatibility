@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems>
-		<defName>Vanilla</defName>
+		<defName>ReplaceStuffModCompat_Vanilla</defName>
 		<replaceLists>
 			<li>
 				<category>Dressers</category>

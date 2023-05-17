@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfecore">
-		<defName>VanillaExpandedFurniture</defName>
+		<defName>ReplaceStuffModCompat_VanillaExpandedFurniture</defName>
 		<replaceLists>
 			<li>
 				<category>Dressers</category>

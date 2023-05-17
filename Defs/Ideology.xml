@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="Ludeon.RimWorld.Ideology">
-		<defName>Ideology</defName>
+		<defName>ReplaceStuffModCompat_Ideology</defName>
 		<replaceLists>
 			<li>
 				<category>Lights</category>

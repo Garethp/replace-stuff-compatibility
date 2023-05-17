@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="leion247612.higherhpower">
-		<defName>HigherPower</defName>
+		<defName>ReplaceStuffModCompat_HigherPower</defName>
 		<replaceLists>
 			<li>
 				<category>PoweredGenerators</category>

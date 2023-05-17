@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="nephlite.orbitaltradecolumn">
-		<defName>UtilityColumns</defName>
+		<defName>ReplaceStuffModCompat_UtilityColumns</defName>
 		<replaceLists>
 			<li>
 				<category>Lights</category>

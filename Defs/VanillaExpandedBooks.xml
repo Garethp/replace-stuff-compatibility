@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vbookse">
-		<defName>VanillaExpandedBooks</defName>
+		<defName>ReplaceStuffModCompat_VanillaExpandedBooks</defName>
 		<replaceLists>
 			<li>
 				<isWorkbench>true</isWorkbench>

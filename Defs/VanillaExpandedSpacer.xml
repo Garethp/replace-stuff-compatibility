@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfespacer">
-		<defName>VanillaExpandedSpacer</defName>
+		<defName>ReplaceStuffModCompat_VanillaExpandedSpacer</defName>
 		<replaceLists>
 			<li>
 				<category>Dressers</category>

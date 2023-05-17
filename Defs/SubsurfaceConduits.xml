@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="murmur.subsurfaceconduit">
-		<defName>SubsurfaceConduits</defName>
+		<defName>ReplaceStuffModCompat_SubsurfaceConduits</defName>
 		<replaceLists>			
 			<li>
 				<category>PowerConduits</category>

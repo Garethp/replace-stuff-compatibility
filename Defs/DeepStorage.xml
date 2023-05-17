@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="lwm.deepstorage">
-		<defName>DeepStorage</defName>
+		<defName>ReplaceStuffModCompat_DeepStorage</defName>
 		<replaceLists>
 			<li>
 				<items>

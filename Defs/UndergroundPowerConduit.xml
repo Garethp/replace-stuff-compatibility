@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="owlchemist.undergroundpowerconduits">
-		<defName>UndergroundPowerConduit</defName>
+		<defName>ReplaceStuffModCompat_UndergroundPowerConduit</defName>
 		<replaceLists>			
 			<li>
 				<category>PowerConduits</category>

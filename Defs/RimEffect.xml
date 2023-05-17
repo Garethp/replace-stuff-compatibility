@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="rimeffect.core">
-		<defName>RimEffect</defName>
+		<defName>ReplaceStuffModCompat_RimEffect</defName>
 		<replaceLists>
 			<li>
 				<category>Dressers</category>

@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="kikohi.jewelry">
-		<defName>Jewelry</defName>
+		<defName>ReplaceStuffModCompat_Jewelry</defName>
 		<replaceLists>
 			<li>
 				<isWorkbench>true</isWorkbench>

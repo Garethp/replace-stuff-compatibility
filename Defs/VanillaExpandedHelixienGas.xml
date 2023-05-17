@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.helixiengas">
-		<defName>VanillaExpandedHelixien</defName>
+		<defName>ReplaceStuffModCompat_VanillaExpandedHelixien</defName>
 		<replaceLists>
 			<li>
 				<category>Lights</category>

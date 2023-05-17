@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfepower">
-		<defName>VanillaExpandedPower</defName>
+		<defName>ReplaceStuffModCompat_VanillaExpandedPower</defName>
 		<replaceLists>
 			<li>
 				<category>PoweredGenerators</category>

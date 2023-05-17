@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="kentington.saveourship2">
-		<defName>SaveOurShip2</defName>
+		<defName>ReplaceStuffModCompat_SaveOurShip2</defName>
 		<replaceLists>
 			<li>
 				<isWall>true</isWall>

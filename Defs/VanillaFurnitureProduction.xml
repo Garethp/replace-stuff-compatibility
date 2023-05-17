@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfeproduction">
-		<defName>VanillaFurnitureProduction</defName>
+		<defName>ReplaceStuffModCompat_VanillaFurnitureProduction</defName>
 		<replaceLists>
 			<li>
 				<isWorkbench>true</isWorkbench>

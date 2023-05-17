@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="Ludeon.RimWorld.Royalty">
-		<defName>Royalty</defName>
+		<defName>ReplaceStuffModCompat_Royalty</defName>
 		<replaceLists>
 			<li>
 				<category>Lights</category>

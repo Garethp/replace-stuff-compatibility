@@ -1,6 +1,6 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="sarg.rimbees">
-		<defName>ArmourRacks</defName>
+		<defName>ReplaceStuffModCompat_ArmourRacks</defName>
 		<replaceLists>
 			<li>
 				<items>
