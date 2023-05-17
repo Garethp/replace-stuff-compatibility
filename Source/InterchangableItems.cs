@@ -5,18 +5,18 @@ namespace Replace_Stuff_Compatibility;
 
 public class InterchangableItems : Def
 {
-	public List<ReplaceList> ReplaceLists = new();
+	public List<ReplaceList> replaceLists = new();
 }
 
 public class ReplaceList
 {
-	public bool IsWall = false;
+	public bool isWall = false;
 	
-	public bool IsWorkbench = false;
+	public bool isWorkbench = false;
 	
-	public string Category = "";
+	public string category = "";
 	
-	public List<ThingDef> Items = new();
+	public List<ThingDef> items = new();
 
 	public List<string> comps = new();
 }

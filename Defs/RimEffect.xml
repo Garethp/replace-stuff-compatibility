@@ -1,70 +1,70 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="rimeffect.core">
 		<defName>RimEffect</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<Category>Dressers</Category>
-				<Items>
+				<category>Dressers</category>
+				<items>
 					<li>RE_PrefabDresser</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Lights</Category>
-				<Items>
+				<category>Lights</category>
+				<items>
 					<li>RE_PrefabStandingLamp</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>EndTables</Category>
-				<Items>
+				<category>EndTables</category>
+				<items>
 					<li>RE_PrefabEndTable</li>
 					<li>RE_PrefabEndTableWithLamp</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Wardrobes</Category>
-				<Items>
+				<category>Wardrobes</category>
+				<items>
 					<li>RE_PrefabWardrobe</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Columns</Category>
-				<Items>
+				<category>Columns</category>
+				<items>
 					<li>RE_PrefabColumn</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>PoweredGenerators</Category>
-				<Items>
+				<category>PoweredGenerators</category>
+				<items>
 					<li>RE_PrefabGenerator</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Category>TVs</Category>
-				<Items>
+				<category>TVs</category>
+				<items>
 					<li>RE_PrefabTelevision</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Category>SolarGenerators</Category>
-				<Items>
+				<category>SolarGenerators</category>
+				<items>
 					<li>PrefabSolarCollectors</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Items>
+				<items>
 					<li>RE_PrefabBedsideTable</li>
 					<li>RE_PrefabBedsideTableLamp</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

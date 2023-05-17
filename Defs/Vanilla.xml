@@ -1,140 +1,141 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems>
 		<defName>Vanilla</defName>
-		<ReplaceLists><li>
-				<Category>Dressers</Category>
-				<Items>
+		<replaceLists>
+			<li>
+				<category>Dressers</category>
+				<items>
 					<li>Dresser</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>EndTables</Category>
-				<Items>
+				<category>EndTables</category>
+				<items>
 					<li>EndTable</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Lights</Category>
-				<Items>
+				<category>Lights</category>
+				<items>
 					<li>TorchLamp</li>
 					<li>StandingLamp</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>ResearchBenches</Category>
-				<Items>
+				<category>ResearchBenches</category>
+				<items>
 					<li>SimpleResearchBench</li>
 					<li>HiTechResearchBench</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Sunlamps</Category>
-				<Items>
+				<category>Sunlamps</category>
+				<items>
 					<li>SunLamp</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Columns</Category>
-				<Items>
+				<category>Columns</category>
+				<items>
 					<li>Column</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>PoweredGenerators</Category>
-				<Items>
+				<category>PoweredGenerators</category>
+				<items>
 					<li>WoodFiredGenerator</li>
 					<li>ChemfuelPoweredGenerator</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<Category>TVs</Category>
-				<Items>
+				<category>TVs</category>
+				<items>
 					<li>TubeTelevision</li>
 					<li>FlatscreenTelevision</li>
 					<li>MegascreenTelevision</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<Category>SolarGenerators</Category>
-				<Items>
+				<category>SolarGenerators</category>
+				<items>
 					<li>SolarGenerator</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<Category>PowerConduits</Category>
-				<Items>
+				<category>PowerConduits</category>
+				<items>
 					<li>PowerConduit</li>
 					<li>WaterproofConduit</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>ArtTables</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>ArtTables</category>
+				<items>
 					<li>TableSculpting</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Smelters</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Smelters</category>
+				<items>
 					<li>ElectricSmelter</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Smithys</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Smithys</category>
+				<items>
 					<li>FueledSmithy</li>
 					<li>ElectricSmithy</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>MachiningTables</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>MachiningTables</category>
+				<items>
 					<li>TableMachining</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Stoves</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Stoves</category>
+				<items>
 					<li>FueledStove</li>
 					<li>ElectricStove</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>TailoringBenches</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>TailoringBenches</category>
+				<items>
 					<li>HandTailoringBench</li>
 					<li>ElectricTailoringBench</li>
-				</Items>
+				</items>
 			</li>
-			
+
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Fabricators</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Fabricators</category>
+				<items>
 					<li>FabricationBench</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

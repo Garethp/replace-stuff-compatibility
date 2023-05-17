@@ -1,25 +1,25 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="nephlite.orbitaltradecolumn">
 		<defName>UtilityColumns</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<Category>Lights</Category>
-				<Items>
+				<category>Lights</category>
+				<items>
 					<li>LightColumnMod</li>
 					<li>DarkColumnMod</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Sunlamps</Category>
-				<Items>
+				<category>Sunlamps</category>
+				<items>
 					<li>SunColumnMod</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Columns</Category>
-				<Items>
+				<category>Columns</category>
+				<items>
 					<li>LightColumnMod</li>
 					<li>DarkColumnMod</li>
 					<li>DetColumnMod</li>
@@ -27,8 +27,8 @@
 					<li>GraveColumnMod</li>
 					<li>SunColumnMod</li>
 					<li>IceColumnMod</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

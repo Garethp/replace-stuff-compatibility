@@ -22,10 +22,10 @@ namespace Replace_Stuff_Compatibility
 				{
 					((IPlantToGrowSettable)newItem).SetPlantDefToGrow(((IPlantToGrowSettable)oldItem).GetPlantDefToGrow());
 				}));
-
+		
 			NewThingReplacement.replacements.Add(new NewThingReplacement.Replacement(
 				building => typeof(Building_Battery).IsAssignableFrom(building.thingClass)));
-
+		
 			// We can use placeWorkers and comps to check what kind of power is being generated so that we don't have to worry
 			// about each item individually
 			NewThingReplacement.replacements.Add(new NewThingReplacement.Replacement(
@@ -48,28 +48,28 @@ namespace Replace_Stuff_Compatibility
 
 			foreach (var def in DefDatabase<InterchangableItems>.AllDefs)
 			{
-				foreach (var list in def.ReplaceLists)
+				foreach (var list in def.replaceLists)
 				{
-					if (list.IsWall)
+					if (list.isWall)
 					{
-						wallInterchangeable.AddRange(list.Items);
+						wallInterchangeable.AddRange(list.items);
 					}
 
-					if (list.Category.Any() && !list.IsWorkbench)
+					if (list.category.Any() && !list.isWorkbench)
 					{
-						if (!categories.ContainsKey(list.Category)) categories.Add(list.Category, new ReplaceList());
+						if (!categories.ContainsKey(list.category)) categories.Add(list.category, new ReplaceList());
 
-						categories[list.Category].Items.AddRange(list.Items);
+						categories[list.category].items.AddRange(list.items);
 					}
-					else if (list.Category.Any() && list.IsWorkbench)
+					else if (list.category.Any() && list.isWorkbench)
 					{
-						if (!workbenchCategories.ContainsKey(list.Category))
+						if (!workbenchCategories.ContainsKey(list.category))
 						{
-							workbenchCategories.Add(list.Category, new ReplaceList());
-							workbenchCategories[list.Category].IsWorkbench = true;
+							workbenchCategories.Add(list.category, new ReplaceList());
+							workbenchCategories[list.category].isWorkbench = true;
 						}
 
-						workbenchCategories[list.Category].Items.AddRange(list.Items);
+						workbenchCategories[list.category].items.AddRange(list.items);
 					}
 					else
 					{
@@ -85,13 +85,13 @@ namespace Replace_Stuff_Compatibility
 
 			foreach (var itemList in uncategorized)
 			{
-				if (itemList.IsWorkbench && !itemList.comps.Contains("Replace_Stuff_Compatibility.Comps.TransferBills"))
+				if (itemList.isWorkbench && !itemList.comps.Contains("Replace_Stuff_Compatibility.Comps.TransferBills"))
 					itemList.comps.Add("Replace_Stuff_Compatibility.Comps.TransferBills");
 				
 				foreach (var compName in itemList.comps)
 				{
 					if (compCache.ContainsKey(compName)) continue;
-
+				
 					var type = Type.GetType(compName);
 					if (type is null) continue;
 					
@@ -130,7 +130,7 @@ namespace Replace_Stuff_Compatibility
 			}
 
 			AddInterchangeableList(
-				items.Items,
+				items.items,
 				preAction: (newThing, oldThing) => { comps.ForEach(comp => compCache[comp].PreAction(newThing, oldThing)); },
 				postAction: (newThing, oldThing) => { comps.ForEach(comp => compCache[comp].PostAction(newThing, oldThing)); }
 			);
@@ -141,6 +141,8 @@ namespace Replace_Stuff_Compatibility
 		protected static void AddInterchangeableList(List<ThingDef> items, Action<Thing, Thing> preAction = null,
 			Action<Thing, Thing> postAction = null)
 		{
+			if (items.Count < 2) return;
+			
 			NewThingReplacement.replacements.Add(
 				new NewThingReplacement.Replacement(
 					ListContainsThingDef(new HashSet<ThingDef>(items)),

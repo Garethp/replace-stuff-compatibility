@@ -1,69 +1,69 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.helixiengas">
 		<defName>VanillaExpandedHelixien</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<Category>Lights</Category>
-				<Items>
+				<category>Lights</category>
+				<items>
 					<li>VHGE_GasLamp</li>
 					<li>VHGE_GasFloodlight</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Sunlamps</Category>
-				<Items>
+				<category>Sunlamps</category>
+				<items>
 					<li>VHGE_GasSunLamp</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>PoweredGenerators</Category>
-				<Items>
+				<category>PoweredGenerators</category>
+				<items>
 					<li>VHGE_HelixienGenerator</li>
 					<li>VHGE_IndustrialHelixienGenerator</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Smelters</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Smelters</category>
+				<items>
 					<li>VHGE_GasPoweredSmelter</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 		
 		<li>
-			<IsWorkbench>true</IsWorkbench>
-			<Items>
+			<isWorkbench>true</isWorkbench>
+			<items>
 				<li>BiofuelRefinery</li>
 				<li>VHGE_GasPoweredRefinery</li>
-			</Items>
+			</items>
 		</li>
 		
 		<li>
-			<IsWorkbench>true</IsWorkbench>
-			<Items>
+			<isWorkbench>true</isWorkbench>
+			<items>
 				<li>ElectricCrematorium</li>
 				<li>VHGE_GasPoweredCrematorium</li>
-			</Items>
+			</items>
 		</li>
 		
 		<li>
-			<IsWorkbench>true</IsWorkbench>
-			<Category>Smithys</Category>
-			<Items>
+			<isWorkbench>true</isWorkbench>
+			<category>Smithys</category>
+			<items>
 				<li>VHGE_GasPoweredSmithy</li>
-			</Items>
+			</items>
 		</li>
 		
 		<li>
-			<IsWorkbench>true</IsWorkbench>
-			<Category>Stoves</Category>
-			<Items>
+			<isWorkbench>true</isWorkbench>
+			<category>Stoves</category>
+			<items>
 				<li>VHGE_GasPoweredStove</li>
-			</Items>
+			</items>
 		</li>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

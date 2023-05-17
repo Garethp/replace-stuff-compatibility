@@ -1,13 +1,13 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="owlchemist.undergroundpowerconduits">
 		<defName>UndergroundPowerConduit</defName>
-		<ReplaceLists>			
+		<replaceLists>			
 			<li>
-				<Category>PowerConduits</Category>
-				<Items>
+				<category>PowerConduits</category>
+				<items>
 					<li>PowerConduitInvisible</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

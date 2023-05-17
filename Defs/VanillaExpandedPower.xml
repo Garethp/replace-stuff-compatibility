@@ -1,21 +1,21 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfepower">
 		<defName>VanillaExpandedPower</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<Category>PoweredGenerators</Category>
-				<Items>
+				<category>PoweredGenerators</category>
+				<items>
 					<li>VFE_IndustrialWoodFiredGenerator</li>
 					<li>VFE_IndustrialChemfuelPoweredGenerator</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Category>SolarGenerators</Category>
-				<Items>
+				<category>SolarGenerators</category>
+				<items>
 					<li>VFE_AdvancedSolarGenerator</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

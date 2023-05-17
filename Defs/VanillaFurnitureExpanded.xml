@@ -1,50 +1,50 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfecore">
 		<defName>VanillaExpandedFurniture</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<Category>Dressers</Category>
-				<Items>
+				<category>Dressers</category>
+				<items>
 					<li>Table_RoyalDresser</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>EndTables</Category>
-				<Items>
+				<category>EndTables</category>
+				<items>
 					<li>Table_LightEndTable</li>
 					<li>Table_RoyalEndTable</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Wardrobes</Category>
-				<Items>
+				<category>Wardrobes</category>
+				<items>
 					<li>Table_Wardrobe</li>
-				</Items>
+				</items>
 			</li>
 
 			<li>
-				<Category>Lights</Category>
-				<Items>
+				<category>Lights</category>
+				<items>
 					<li>Light_Streetlamp</li>
 					<li>Table_LightEndTable</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Items>
+				<items>
 					<li>Campfire</li>
 					<li>Stone_Campfire</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Items>
+				<items>
 					<li>Radio_Industrial</li>
 					<li>Radio_Spacer</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

@@ -1,14 +1,14 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>Royalty</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<Category>Lights</Category>
-				<Items>
+				<category>Lights</category>
+				<items>
 					<li>Brazier</li>
 					<li>DarklightBrazier</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

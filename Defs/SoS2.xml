@@ -1,10 +1,10 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="kentington.saveourship2">
 		<defName>SaveOurShip2</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<IsWall>true</IsWall>
-				<Items>
+				<isWall>true</isWall>
+				<items>
 					<li>HullFoamWall</li>
 					<li>Ship_Beam_Unpowered</li>
 					<li>Ship_Beam</li>
@@ -19,70 +19,70 @@
 					<li>Ship_Corner_OneTwoFlip</li>
 					<li>Ship_Corner_OneThree</li>
 					<li>Ship_Corner_OneThreeFlip</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWall>true</IsWall>
-				<Items>
+				<isWall>true</isWall>
+				<items>
 					<li>ShipInside_SolarGenerator</li>
 					<li>ShipInside_SolarGeneratorArchotech</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Items>
+				<items>
 					<li>Ship_Reactor</li>
 					<li>ArchotechAntimatterReactor</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Items>
+				<items>
 					<li>ShipHeatsink</li>
 					<li>ShipHeatManifold</li>
 					<li>ShipHeatsinkAntiEntropy</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Items>
+				<items>
 					<li>Holodeck_Basic</li>
 					<li>Holodeck_Standard</li>
 					<li>Holodeck_AI</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<Items>
+				<items>
 					<li>ShipCombatShieldGenerator</li>
 					<li>ArchotechShieldGenerator</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWall>true</IsWall>
-				<Items>
+				<isWall>true</isWall>
+				<items>
 					<li>ShipInside_PassiveCooler</li>
 					<li>ShipInside_PassiveCoolerAdvanced</li>
 					<li>ShipInside_PassiveCoolerArchotech</li>
-				</Items>
+				</items>
 				<comps>
 					<li>Replace_Stuff_Compatibility.Comps.ReplaceTemperatureControl</li>
 				</comps>
 			</li>
 			
 			<li>
-				<IsWall>true</IsWall>
-				<Items>
+				<isWall>true</isWall>
+				<items>
 					<li>ShipInside_PassiveVent</li>
 					<li>ShipInside_PassiveVentArchotech</li>
-				</Items>
+				</items>
 				<comps>
 					<li>Replace_Stuff_Compatibility.Comps.ReplaceTemperatureControl</li>
 					<li>Replace_Stuff_Compatibility.Comps.ShipVentHeatWithPower</li>
 				</comps>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

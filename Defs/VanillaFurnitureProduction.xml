@@ -1,78 +1,78 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="vanillaexpanded.vfeproduction">
 		<defName>VanillaFurnitureProduction</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Smelters</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Smelters</category>
+				<items>
 					<li>VFE_FueledSmelter</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<items>
 					<li>TableStonecutter</li>
 					<li>VFE_TableStonecutterElectric</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<items>
 					<li>TableButcher</li>
 					<li>VFE_TableButcherElectric</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<items>
 					<li>DrugLab</li>
 					<li>VFE_TableDrugLabElectric</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Smithys</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Smithys</category>
+				<items>
 					<li>VFE_TableSmithyLarge</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>MachiningTables</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>MachiningTables</category>
+				<items>
 					<li>VFE_TableMachiningLarge</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Stoves</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Stoves</category>
+				<items>
 					<li>VFE_TableStoveLarge</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>TailoringBenches</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>TailoringBenches</category>
+				<items>
 					<li>VFE_TableTailorLarge</li>
-				</Items>
+				</items>
 			</li>
 			
 			<li>
-				<IsWorkbench>true</IsWorkbench>
-				<Category>Fabricators</Category>
-				<Items>
+				<isWorkbench>true</isWorkbench>
+				<category>Fabricators</category>
+				<items>
 					<li>VFE_ComponentFabricationBench</li>
-				</Items>
+				</items>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>

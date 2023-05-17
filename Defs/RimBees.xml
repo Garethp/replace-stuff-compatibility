@@ -1,19 +1,19 @@
 ﻿<Defs>
 	<Replace_Stuff_Compatibility.InterchangableItems MayRequire="sarg.rimbees">
 		<defName>ArmourRacks</defName>
-		<ReplaceLists>
+		<replaceLists>
 			<li>
-				<Items>
+				<items>
 					<li>RB_Beehouse</li>
 					<li>RB_ClimatizedBeehouse</li>
 					<li>RB_AdvancedBeehouse</li>
 					<li>RB_AdvancedClimatizedBeehouse</li>
 					<li>RB_SpacerBeehouse</li>
-				</Items>
+				</items>
 				<comps>
 					<li>Replace_Stuff_Compatibility.Comps.TransferBees</li>
 				</comps>
 			</li>
-		</ReplaceLists>
+		</replaceLists>
 	</Replace_Stuff_Compatibility.InterchangableItems>
 </Defs>
