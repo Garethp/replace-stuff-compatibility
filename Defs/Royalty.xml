@@ -6,6 +6,17 @@
 				<category>Lights</category>
 				<items>
 					<li>Brazier</li>
+				</items>
+			</li>
+		</replaceLists>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
+
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Ideology">
+		<defName>ReplaceStuffModCompat_RoyaltyIdeo</defName>
+		<replaceLists>
+			<li>
+				<category>Lights</category>
+				<items>
 					<li>DarklightBrazier</li>
 				</items>
 			</li>

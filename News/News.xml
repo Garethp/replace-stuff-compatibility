@@ -28,4 +28,12 @@
 			- This update moves all Replace Stuff Compatibility into XML Patches, allowing mod authors or community members to make their own items Replace Stuff compatible
 		</content>
 	</HugsLib.UpdateFeatureDef>
+
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>Reaplce_Stuff_Mod_Compatibility_2_0_2</defName>
+		<assemblyVersion>2.0.2</assemblyVersion>
+		<content>
+			- Fixed an issue with Darklight Braziers if you had Royalty enabled without having Ideology enabled
+		</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>
