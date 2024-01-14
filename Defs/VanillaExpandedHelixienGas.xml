@@ -32,38 +32,38 @@
 					<li>VHGE_GasPoweredSmelter</li>
 				</items>
 			</li>
+			
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<items>
+					<li>BiofuelRefinery</li>
+					<li>VHGE_GasPoweredRefinery</li>
+				</items>
+			</li>
+		
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<items>
+					<li>ElectricCrematorium</li>
+					<li>VHGE_GasPoweredCrematorium</li>
+				</items>
+			</li>
+		
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>Smithys</category>
+				<items>
+					<li>VHGE_GasPoweredSmithy</li>
+				</items>
+			</li>
+		
+			<li>
+				<isWorkbench>true</isWorkbench>
+				<category>Stoves</category>
+				<items>
+					<li>VHGE_GasPoweredStove</li>
+				</items>
+			</li>
 		</replaceLists>
-		
-		<li>
-			<isWorkbench>true</isWorkbench>
-			<items>
-				<li>BiofuelRefinery</li>
-				<li>VHGE_GasPoweredRefinery</li>
-			</items>
-		</li>
-		
-		<li>
-			<isWorkbench>true</isWorkbench>
-			<items>
-				<li>ElectricCrematorium</li>
-				<li>VHGE_GasPoweredCrematorium</li>
-			</items>
-		</li>
-		
-		<li>
-			<isWorkbench>true</isWorkbench>
-			<category>Smithys</category>
-			<items>
-				<li>VHGE_GasPoweredSmithy</li>
-			</items>
-		</li>
-		
-		<li>
-			<isWorkbench>true</isWorkbench>
-			<category>Stoves</category>
-			<items>
-				<li>VHGE_GasPoweredStove</li>
-			</items>
-		</li>
 	</Replace_Stuff_Compatibility.InterchangeableItems>
 </Defs>
