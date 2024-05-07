@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Replace Stuff Mod Compatibility - Dev Build</name>
+	<name>Replace Stuff Mod Compatibility</name>
 	<author>Garethp</author>
 	<supportedVersions>
 		<li>1.0</li>
@@ -8,73 +8,79 @@
 		<li>1.2</li>
 		<li>1.3</li>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
-	<packageId>GarethpDebug.ReplaceStuffCompatibility</packageId>
+	<packageId>Garethp.ReplaceStuffCompatibility</packageId>
 	<description>A patch for Replace Stuff to introduce compatibility for various mods. Replace ship walls and reactors without having to remove them first. Source code found on [url=https://github.com/Garethp/replace-stuff-compatibility]Github[/url]
 
 Mods included in this patch so far are:
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=1909914131]Save Our Ship 2[/url][/u][/b]
-[list]
-		[*] Upgrade your Hulls, Solar Generators and Coolers without tearing them down and exposing your ship to the vacuum
-		[*] Upgrade your Reactors without taking them offline and leaving you without power
-		[*] Upgrade your Shield Generators without leaving yourself defenseless
-		[*] Upgrade your heatsinks without removing all your heat capacity in case of an attack
+[list] 
+	[*] Upgrade your Hulls, Solar Generators and Coolers without tearing them down and exposing your ship to the vacuum
+	[*] Upgrade your Reactors without taking them offline and leaving you without power
+	[*] Upgrade your Shield Generators without leaving yourself defenseless
+	[*] Upgrade your heatsinks without removing all your heat capacity in case of an attack
 [/list]
 	
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=1718190143]Vanilla Furniture Expanded (Core)[/url][/u][/b]
 [list]
-		[*] You can now replace Campfires, Radios, End Tables, Dressers and the new Lamps
-		[*] Vanilla Furniture Expanded items that attach to walls should no longer be removed when replacing walls
+	[*] You can now replace Campfires, Radios, End Tables, Dressers and the new Lamps
+	[*] Vanilla Furniture Expanded items that attach to walls should no longer be removed when replacing walls
 [/list]
 
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=1845154007]Vanilla Furniture Expanded (Security)[/url][/u][/b]
 [list]
-		[*] Replacing Sandbags with Barricades and Barriers now no longer leaves a hole in your line
-		[*] Small Turrets can be replaced with other Small Turrets and Large Turrets can be replaced with other Large Turrets without reducing your firepower during the replacement
-		[*] Upgrade from a Small Shield to a Large Shield without letting raiders take shots at your defences in the middle
+	[*] Replacing Sandbags with Barricades and Barriers now no longer leaves a hole in your line
+	[*] Small Turrets can be replaced with other Small Turrets and Large Turrets can be replaced with other Large Turrets without reducing your firepower during the replacement
+	[*] Upgrade from a Small Shield to a Large Shield without letting raiders take shots at your defences in the middle
 [/list]
 
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=1880253632]Vanilla Furniture Expanded (Production)[/url][/u][/b]
 [list]
-		[*] When upgrade from the base game workbenches to their electric upgrades you can keep the bills that you painstakingly set up
+	[*] When upgrade from the base game workbenches to their electric upgrades you can keep the bills that you painstakingly set up
 [/list]
 
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=1957158779]Vanilla Furniture Expanded (Farming)[/url][/u][/b]
 [list]
-		[*] Want to go from planter boxes to hydroponics to ecosystems over your whole playthrough? There's no need to tear down your entire food supply, just replace them one by one instead
+	[*] Want to go from planter boxes to hydroponics to ecosystems over your whole playthrough? There's no need to tear down your entire food supply, just replace them one by one instead
 [/list]
 
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=2028381079]Vanilla Furniture Expanded (Spacer)[/url][/u][/b]
 [list]
-		[*] Remember the End Table and Dresser upgrades from the Core Furniture Module? Yup, the Illuminated versions are joining them in replacability
-		[*] All new light lamps are interchangable with lamps from this game and other mods listed here
-		[*] Massive new Sunlamp just plops ontop of your old one
+	[*] Remember the End Table and Dresser upgrades from the Core Furniture Module? Yup, the Illuminated versions are joining them in replacability
+	[*] All new light lamps are interchangable with lamps from this game and other mods listed here
+	[*] Massive new Sunlamp just plops ontop of your old one
 [/list]
 
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=2062943477]Vanilla Furniture Expanded (Power)[/url][/u][/b]
 [list]
-		[*] You shouldn't have to leave giant holes in your power grid as you're upgrading from Solar or Wind or Watermill to their upgraded versions. If you had to deconstruct instead of just replacing, you might risk damage to your valuable Psychoid.
-		[*] Same goes for Wood/Chemfuel/Helixien Generators. It's common sense, the power grid isn't meant to go down while you upgrade it
-		[*] As above, so here as well: Your pawns shouldn't forget what a Workbench is for just because it's gone from using electricity to Helixien Gas
-		[*] Why destroy one battery before plugging a more advanced one in? Just built the new one first [b]then[/b] throw the old stuff in the garbage
-		[*] New Gas Powered Sunlamp with the Great Replaceable Taste
+	[*] You shouldn't have to leave giant holes in your power grid as you're upgrading from Solar or Wind or Watermill to their upgraded versions. If you had to deconstruct instead of just replacing, you might risk damage to your valuable Psychoid.
+	[*] Same goes for Wood/Chemfuel/Helixien Generators. It's common sense, the power grid isn't meant to go down while you upgrade it
+	[*] As above, so here as well: Your pawns shouldn't forget what a Workbench is for just because it's gone from using electricity to Helixien Gas
+	[*] Why destroy one battery before plugging a more advanced one in? Just built the new one first [b]then[/b] throw the old stuff in the garbage
+	[*] New Gas Powered Sunlamp with the Great Replaceable Taste
+[/list]
+		
+[b][u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2608762624]Vanilla Furniture Expanded - Architect[/url][/u][/b]
+[list]
+	[*] Allow bridges to be upgraded. Heck, let's not even restrict it to this mod, all bridges from all mods should be interchangable
 [/list]
 		
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=1875828205]Armour Racks[/url][/u][/b]
 [list] 
-			[*] Why should your colonist forget which rack belongs to them just because it got a small upgrade? Luther, get your damn suit on already!
+	[*] Why should your colonist forget which rack belongs to them just because it got a small upgrade? Luther, get your damn suit on already!
 [/list]
 		
 [b][u][url=https://steamcommunity.com/workshop/filedetails/?id=1617282896]LWM's Deep Storage[/url][/u][/b]
-[list]
-		[*] Keep your settings and storage while you replace Shelf/Double Shelf/Tall Shelves, Pallet/Pallet With Wrapping and Weapon Cabinet/Weapon Locker
+[list] 
+	[*] Keep your settings and storage while you replace Shelf/Double Shelf/Tall Shelves, Pallet/Pallet With Wrapping and Weapon Cabinet/Weapon Locker
 [/list]
-		
+
 [b][u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1409449372]Higher Power[/url][/u][/b]
 [list]
 	[*] More levels of power generation to not have to worry about putting holes in your grid while replacing
 [/list]
-
+		
 [b][u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2193152410]Vanilla Books Expanded[/url][/u][/b]
 [list]
 	[*] You've invented writing! So your pawns may as well write down the bills they need to do when upgrading to the typewriters table so they don't forget
@@ -84,7 +90,7 @@ Mods included in this patch so far are:
 [list]
 	[*] Having both Simple Utilties: Wall and Replace Stuff used to break the ability to replace a wall underneath the Over-Wall cooler, but since I'm so nice I decided to fix this for you
 [/list]
-
+		
 [b][u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2479560240]Rim Effect[/url][/u][/b]
 [list]
 	[*] More Dressers? More Endtables? And now a wardrobe?
@@ -122,13 +128,12 @@ Mods included in this patch so far are:
 [list]
 	[*] Replace your power conduits with underground conduits from any of these mods without having to disconnect the entire line
 [/list]
-		
+
 [b][u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1558161673]Rimbees[/url][/u][/b]
 [list]
 	[*] Just bee happy that when you want to upgrade your beehouses you don't also have to be a busy bee re-injecting all those bee's back into their new shiny houses
 [/list]
-		
-(This is the dev version of Replace Stuff. The release version of About.xml is available for editing at About/About-Release.xml. Edits made on this file or on the temporary About/About.xml won't show up on the release version. Use VisualStudio to build a "Release" version of this mod when ready to upload your mod!)</description>
+	</description>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>
@@ -142,7 +147,7 @@ Mods included in this patch so far are:
 			<steamWorkshopUrl>https://steamcommunity.com/id/Uuugggg/myworkshopfiles/?appid=294100</steamWorkshopUrl>
 		</li>
 	</modDependencies>
-
+	
 	<loadAfter>
 		<li>Uuugggg.ReplaceStuff</li>
 		<li>kentington.saveourship2</li>

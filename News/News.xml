@@ -36,4 +36,12 @@
 			- Fixed an issue with Darklight Braziers if you had Royalty enabled without having Ideology enabled
 		</content>
 	</HugsLib.UpdateFeatureDef>
+	
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>Reaplce_Stuff_Mod_Compatibility_2_0_3</defName>
+		<assemblyVersion>2.0.3</assemblyVersion>
+		<content>
+			- Updated for 1.5
+		</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>
