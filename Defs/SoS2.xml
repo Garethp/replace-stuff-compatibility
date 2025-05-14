@@ -10,6 +10,7 @@
 					<li>Ship_Beam</li>
 					<li>Ship_BeamArchotech_Unpowered</li>
 					<li>Ship_BeamArchotech</li>
+					<li>ShipAirlock</li>
 					<li>ShipAirlockArchotech</li>
 					<li>Ship_Beam_Wrecked</li>
 					<li>Ship_Beam_Wrecked_Fake</li>
@@ -58,18 +59,6 @@
 					<li>ShipCombatShieldGenerator</li>
 					<li>ArchotechShieldGenerator</li>
 				</items>
-			</li>
-			
-			<li>
-				<isWall>true</isWall>
-				<items>
-					<li>ShipInside_PassiveCooler</li>
-					<li>ShipInside_PassiveCoolerAdvanced</li>
-					<li>ShipInside_PassiveCoolerArchotech</li>
-				</items>
-				<comps>
-					<li>Replace_Stuff_Compatibility.Comps.ReplaceTemperatureControl</li>
-				</comps>
 			</li>
 			
 			<li>
