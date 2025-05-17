@@ -7,9 +7,6 @@ namespace Replace_Stuff_Compatibility
 	{
 		public Mod(ModContentPack content) : base(content)
 		{
-#if DEBUG
-			Harmony.DEBUG = true;
-#endif
 			new Harmony("Garethp.rimworld.Replace_Stuff_Compatibility.main").PatchAll();
 		}
 
