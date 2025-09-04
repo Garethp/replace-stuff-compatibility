@@ -8,6 +8,7 @@
     <exclude>packages</exclude>
     <exclude>Replace Stuff Compatibility.sln</exclude>
     <exclude>Source</exclude>
+	  <exclude>TestingSaves</exclude>
     <exclude>TODO.md</exclude>
   </Excluded>
 </Configuration>

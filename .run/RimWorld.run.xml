@@ -2,7 +2,7 @@
   <configuration default="false" name="RimWorld" type="RimworldRunConfiguration" factoryName="RimworldRunConfiguration">
     <option name="commandLineOptions" value="" />
     <option name="modListPath" value="$PROJECT_DIR$/Modlist.xml" />
-    <option name="saveFilePath" value="" />
+    <option name="saveFilePath" value="$PROJECT_DIR$/TestingSaves/Development - Replace Stuff#§#Quickstart - Vanilla.rws" />
     <option name="scriptName" value="D:\SteamLibrary\steamapps\common\RimWorld\RimWorldWin64.exe" />
     <method v="2">
       <option name="Build" default="false" projectName="Replace_Stuff_Compatibility" projectPath="$PROJECT_DIR$/Source/Replace_Stuff_Compatibility.csproj" />
