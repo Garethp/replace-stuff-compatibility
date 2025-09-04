@@ -12,7 +12,7 @@
 			<li>
 				<category>EndTables</category>
 				<items>
-					<li>Table_LightEndTable</li>
+					<!-- No longer exists <li>Table_LightEndTable</li> -->
 					<li>Table_RoyalEndTable</li>
 				</items>
 			</li>
@@ -28,7 +28,7 @@
 				<category>Lights</category>
 				<items>
 					<li>Light_Streetlamp</li>
-					<li>Table_LightEndTable</li>
+					<!-- No longer exists <li>Table_LightEndTable</li> -->
 				</items>
 			</li>
 			

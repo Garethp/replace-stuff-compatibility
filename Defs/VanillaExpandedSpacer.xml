@@ -19,7 +19,7 @@
 			<li>
 				<category>Lights</category>
 				<items>
-					<li>Light_SpacerLamp</li>
+					<!-- No longer exists <li>Light_SpacerLamp</li> -->
 					<li>Spacer_OutdoorLamp</li>
 				</items>
 			</li>

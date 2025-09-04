@@ -6,7 +6,7 @@
 			<li Class="PatchOperationReplace">
 				<success>Always</success>
 				<xpath>
-					/Defs/ThingDef[defName="Vent" or defName="Cooler"]/comps/li[@Class="VanillaFurnitureExpanded.CompProperties_MountableOnWall"]
+					/Defs/ThingDef[defName="Vent" or defName="Cooler"]/comps/li[@Class="VEF.Buildings.CompProperties_MountableOnWall"]
 				</xpath>
 				<value>
 					<li Class="Replace_Stuff_Compatibility.Comps.CompProperties_MountableOnWall"/>
